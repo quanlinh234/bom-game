@@ -1,5 +1,5 @@
 import pygame
-from asyncio.windows_utils import pipe
+# from asyncio.windows_utils import pipe
 from distutils.spawn import spawn
 from json import load
 from tkinter import CENTER
